@@ -5,6 +5,6 @@ Since I am dealing with large scale prime numbers, I had tons of complexity issu
 As I was only learning python, I have had to make more than 25 versions of the same programs, each time lowering the complexities.
 I have tried to identify patterns in the number of representations.
 However, currently, I'm focussed on achieving single representations for given numbers.
-Feel free to contribute to help me if you have less complex ways to achieve this.
+Feel free to contribute if you have less complex ways to achieve this.
 
 P.S. The conjecture will be published shortly.
